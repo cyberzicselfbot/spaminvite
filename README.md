@@ -19,8 +19,9 @@ HOW TO RUN VIA VPS ( VIRTUAL PRIVATE SERVER )
 16. sudo pip3 install wikipedia
 17. sudo pip3 install youtube_dl
 18. sudo pip3 install ffmpy
-19. cd Cyberzic-login
-20. python3 sb.py
+19. git clone https://github.com/cyberzicselfbot/spaminvite
+20. cd spaminvite
+21. python3 sb.py
 
 
 HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
@@ -43,7 +44,8 @@ HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 17. pip3 install wikipedia
 18. pip3 install youtube_dl
 19. pip3 install ffmpy
-20. cd Cyberzic-login
-21. python3 sb.py
+20. git clone https://github.com/cyberzicselfbot/spaminvite
+21. cd spaminvite
+22. python3 sb.py
 
 #Subscribe : CyberZiC
