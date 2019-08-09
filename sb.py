@@ -79,7 +79,7 @@ Connect_to = {
     "Unban":False,
     "comment": "autolike by CyberZiC",
     "Admin": {
-        "ud296655acef67cbd5e8208e63629f78b":True #MID ADMIN TARO DISINI
+        "u1d1a1c89256f76d396bad6c8e7c820ce":True #MID ADMIN TARO DISINI
     },
 }
 
