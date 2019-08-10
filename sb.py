@@ -1355,7 +1355,7 @@ def LINE_OP_TYPE(op):
                                 else:
                                     client.sendText(send, "Off not Going")
 
-                        elif msgText.lower().startswith("mentionall"):
+                        elif msgText.lower().startswith("x"):
                             if man in Team or man in Connect_to["Admin"]:
                                 gname = client.getGroup(send)
                                 local = [contact.mid for contact in gname.members]
